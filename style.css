@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+    width: 1440;
+    height: 2116;
+    top: -512px;
+    left: -656px;
+
+}
+ #MenuSuperior{
+    background-color: #303030;
+    color: white;
+    width: 1440px;
+    height: 475px;
+
+   
+   
+ }
+#tituloMenuSuperior{
+ font-family: Inter;
+font-weight: 600;
+font-size: 60px;
+line-height: 72px;
+letter-spacing: -2.5%;
+padding: 200px 25px 50px 25px
+
+
+
+
+
+}
+#textoMenusuperior{
+width: 1024;
+height: 28;
+top: 298px;
+left: 62px;
+size: 20px;
+margin: 25px;
+margin-top: 0px;
+   
+
+}
+
+#MenuInformacional{
+    background-color:  #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    width: 1440px;
+height: 229px;
+top: -42px;
+left: -656px;
+
+
+}
+
+.icone{
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+    
+    
+}
+#Foto{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    margin: 50px 25px 25px 100px;
+}
+#titulofoto{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 40px;
+    margin: 100px 25px 25px 25px;
+padding-bottom: 25px;
+    
+   
+}
+
+#textofoto{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+font-family: Inter;
+font-weight: 300;
+font-size: 24px;
+}
+
+#formulario{
+    background-color: #303030;
+    text-align: center;
+    color: white;
+    font-family: Inter;
+font-weight: 700px;
+font-size: 20px;
+line-height: 48px;
+letter-spacing: 0%;
+
+}
+#titulo-formulario{
+    width: 944p;
+    height: 48p;
+    top: 1565px;
+    margin: 25px 25px 25px 25px;
+    
+    
+
+}
+   
+input{
+width: 500px;
+height: 40px;
+top: 1661px;
+left: 466px;
+border-radius: 8px;
+margin: 15px;
+border: 0px;
+padding-left: 25px;
+
+}
+button{
+    width: 286px;
+    height: 50px;
+    top: 1955px;
+    left: 577px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    background-color: #C07212;
+    color: white;
+    cursor: pointer;
+    
+}
